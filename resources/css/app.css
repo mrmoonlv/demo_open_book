@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.w-96.flex.rounded-lg.shadow-sm {
+    width: 100%;
+    border: 1px solid #ccc;
+}
